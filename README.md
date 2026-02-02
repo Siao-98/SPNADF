@@ -1,2 +1,2 @@
 # SPNADF
-![pred depth](video/ball/pred_depth_parula.webp)
+Video/ball/pred_depth_parula.webp
