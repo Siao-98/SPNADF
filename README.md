@@ -22,7 +22,8 @@ SP-NADF targets dynamic-scene reconstruction under sparse photons, strong backgr
 Fig. 7 — Online temporal evolution (depth + intensity)
 This mosaic corresponds to Fig. 7: Temporal evolution of observations, reconstructions, and uncertainty in online recursion
 (depth + reflectivity/intensity).
-- Video/mosaic_2x3.webp
+ ![SPLiDER Online1](Video/mosaic_2x4_part1.webp)
+  ![SPLiDER Online2](Video/mosaic_2x3.webp)
 
 Fig. 7 — Uncertainty + ESP effect
 This mosaic corresponds to Fig. 7’s uncertainty and the role of ESP (event-level signal probability).
@@ -30,10 +31,10 @@ This mosaic corresponds to Fig. 7’s uncertainty and the role of ESP (event-lev
 
 Comparison with SPLiDER (four scenes)
 The following mosaics are four scenes comparing SP-NADF with SPLiDER:
-- Video/mosaic_2x4_part1.webp
-- Video/mosaic_2x4_part2.webp
-- Video/mosaic_2x4_part3.webp
-- Video/mosaic_2x4_part4.webp
+ ![SPLiDER comparison — scene 1](Video/mosaic_2x4_part1.webp)
+  ![SPLiDER comparison — scene 2](Video/mosaic_2x4_part2.webp)
+  ![SPLiDER comparison — scene 3](Video/mosaic_2x4_part3.webp)
+  ![SPLiDER comparison — scene 4](Video/mosaic_2x4_part4.webp)
 
 
 3) Code structure
