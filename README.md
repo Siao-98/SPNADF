@@ -160,13 +160,6 @@ Search in `code/train_SPNADF.py` for output directory settings.
 
 ---
 
-## Citation
-
-If you use this code, please cite the SP-NADF paper:
-- *Single-Photon Neural Assumed-Density Filter for Dynamic Scene Reconstruction*
-
-(BibTeX can be added here once you decide the final bib entry.)
-
 ---
 
 ## License
