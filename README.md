@@ -1,6 +1,6 @@
 # SP-NADF — Single-Photon Neural Assumed-Density Filter
 
-This repository provides the code for **SP-NADF (Single-Photon Neural Assumed-Density Filter)**: an online method for
+This repository provides the code for **SP-NADF (Single-Photon Neural Assumed-Density Filter)**: an method for
 **joint depth + reflectivity** reconstruction from **single-photon LiDAR time-of-arrival (ToA) events**, with **pixel-wise
 uncertainty** for risk-aware recursion.
 
