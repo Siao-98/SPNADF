@@ -31,10 +31,6 @@ SP-NADF targets dynamic-scene reconstruction under sparse photons, strong backgr
 ---
 
 ## Visual Results
-
-> GitHub Markdown doesn’t provide a native way to center images rendered via `![]()`.  
-> Use an HTML wrapper instead.
-
 ### Online temporal evolution (depth + intensity)
 <p align="center">
   <img src="Video/mosaic_2x3.webp" alt="SP-NADF Online1" width="900">
